@@ -1,6 +1,10 @@
 [
     {
         "description": "The native token of Namada.",
+        "twitter": "https://x.com/namada",
+        "discord": "https://discord.gg/namada",
+        "website": "https://namada.net/",
+        "telegram" "https://t.me/namadaprotocol",
         "base": "unam",
         "name": "Namada Housefire",
         "display": "nam",
